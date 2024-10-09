@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vodojififijo.pages.dev/sitemap.xml
